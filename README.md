@@ -15,14 +15,3 @@ Trabalho em equipe, comunicação eficaz, curiosidade, aprendizado contínuo, re
 ![C#](https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-100000?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## Projetos
-
-### 📂 dio-lab-open-source
-[![Repo](https://img.shields.io/badge/Acessar_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodolfopiresm/dio-lab-open-source)
-> Repositório focado em práticas de open source e laboratórios da DIO.
-
----
-
-### 📂 trilha-net-fundamentos-desafio
-[![Repo](https://img.shields.io/badge/Acessar_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodolfopiresm/trilha-net-fundamentos-desafio)
-> Desafio prático dos fundamentos de .NET.
